@@ -33,6 +33,7 @@
 
 /*--------------------------------------------------------------------- skeleton ---------------------------------------------------------------------*/
 
+
 * {
     box-sizing: border-box !important;
     transition: ease all 0.5s;
@@ -300,7 +301,7 @@ button.donate_btn {
 .banner_section {
     width: 100%;
     float: left;
-    background-image: url(../images/3.jpg);
+    background-image: url(../images/3blur.png);
     height: auto;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -310,7 +311,7 @@ button.donate_btn {
     width: 45%;
     margin: 0 auto;
     font-size: 60px;
-    color: red;
+    color: black;
     text-transform: uppercase;
     text-align: center;
     font-weight: bold;
@@ -322,7 +323,7 @@ button.donate_btn {
     width: 75%;
     margin: 0 auto;
     font-size: 16px;
-    color: red;
+    color: #fca825;
     text-align: center;
     padding: 20px 0px;
 }
@@ -338,7 +339,7 @@ button.donate_btn {
     float: left;
     text-align: center;
     font-size: 16px;
-    color: red;
+    color: black;
     padding: 8px 0px;
     text-transform: uppercase;
 }
